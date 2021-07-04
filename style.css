@@ -1,7 +1,9 @@
-h1{
-    color: blue;
-}
 p{
-    background-color:green ;
-    font-size: x-large;
+    color: greenyellow;
+    background-color: hotpink;
+    font-size: large
+}
+h1{
+    color: indigo;
+    background-color: red;
 }
